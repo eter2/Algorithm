@@ -1,19 +1,12 @@
-// programmers - ¼Ò¼ö ¸¸µé±â(https://programmers.co.kr/learn/courses/30/lessons/12977)
+// programmers - ì†Œìˆ˜ ë§Œë“¤ê¸°(https://programmers.co.kr/learn/courses/30/lessons/12977)
 
 #include <stdio.h>
-#include <stdlib.h>
 #include <stdbool.h>
+#include <stdlib.h>
 
-int solution(int nums[], size_t nums_len);
 bool prime(int sum);
 
-int main() {
-	int array1[] = { 1,2,7,6,4 };
-	printf("%d", solution(array1, sizeof(array1) / sizeof(int)));
-	return 0;
-}
-
-// nums_lenÀº ¹è¿­ numsÀÇ ±æÀÌÀÔ´Ï´Ù.
+// nums_lenì€ ë°°ì—´ numsì˜ ê¸¸ì´ì…ë‹ˆë‹¤.
 int solution(int nums[], size_t nums_len) {
 	int answer = 0;
 	for (int i = 0; i < nums_len - 2; i++) {
