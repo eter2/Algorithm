@@ -1,13 +1,8 @@
+// Programmers - Nê°œì˜ ìµœì†Œê³µë°°ìˆ˜(https://programmers.co.kr/learn/courses/30/lessons/12953)
+
 #include <stdio.h>
 
-int solution();
-
-int main() {
-	// solution();
-	return 0;
-}
-
-// arr_lenÀº ¹è¿­ arrÀÇ ±æÀÌÀÔ´Ï´Ù.
+// arr_lenì€ ë°°ì—´ arrì˜ ê¸¸ì´ì…ë‹ˆë‹¤.
 int solution(int arr[], size_t arr_len) {
 	int answer = 0;
 	return answer;
