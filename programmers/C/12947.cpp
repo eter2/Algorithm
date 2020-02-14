@@ -1,4 +1,4 @@
-// Programmers ÇÏ»þµå ¼ö - (https://programmers.co.kr/learn/courses/30/lessons/12947)
+// Programmers í•˜ìƒ¤ë“œ ìˆ˜ - (https://programmers.co.kr/learn/courses/30/lessons/12947)
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
