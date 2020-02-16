@@ -1,4 +1,4 @@
-// Programmers ¾à¼öÀÇ ÇÕ - (https://programmers.co.kr/learn/courses/30/lessons/12928)
+// Programmers ì•½ìˆ˜ì˜ í•© - (https://programmers.co.kr/learn/courses/30/lessons/12928)
 
 #include <stdio.h>
 #include <stdbool.h>
