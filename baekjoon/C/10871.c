@@ -1,4 +1,4 @@
-//Baekjoon Xº¸´Ù ÀÛÀº ¼ö (https://www.acmicpc.net/problem/10871)
+//Baekjoon Xë³´ë‹¤ ì‘ì€ ìˆ˜ (https://www.acmicpc.net/problem/10871)
 
 #include <stdio.h>
 #include <string.h>
