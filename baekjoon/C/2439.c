@@ -1,4 +1,4 @@
-//Baekjoon ∫∞¬Ô±‚-2 (https://www.acmicpc.net/problem/2439)
+//Baekjoon Î≥ÑÏ∞çÍ∏∞ - 2 (https://www.acmicpc.net/problem/2439)
 
 #include <stdio.h>
 
