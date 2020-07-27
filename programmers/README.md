@@ -2,6 +2,8 @@
 
 12901 2016년 [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12901.c)
 
+12903 가운데 글자 가져오기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12903) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12903.c)
+
 12912 두 정수 사이의 합 [문제](https://programmers.co.kr/learn/courses/30/lessons/12912) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12912.c)
 
 12922 수박수박수박수박수박수? [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12922.c)
