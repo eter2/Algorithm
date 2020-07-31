@@ -44,6 +44,10 @@
 
 12977 소수 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12977.c)
 
+42584 주식가격 [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/42584.c)
+
 42588 탑 [문제](https://programmers.co.kr/learn/courses/30/lessons/42588) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/42588.c)
 
 49993 스킬트리 [문제](https://programmers.co.kr/learn/courses/30/lessons/49993) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/49993.c)
+
+62048 멀쩡한 사각형 [문제](https://programmers.co.kr/learn/courses/30/lessons/62048) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/62048.c)
