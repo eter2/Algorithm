@@ -30,7 +30,7 @@
 
 12943 콜라츠 추측 [문제](https://programmers.co.kr/learn/courses/30/lessons/12943) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12943.c)
 
-12944 평균 구하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12944) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12944.c)
+12944 평균 구하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12944) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12944.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12944/Solution.java)
 
 12945 피보나치 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12945) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12945.c)
 
