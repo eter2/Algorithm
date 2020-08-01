@@ -1,4 +1,4 @@
-// Programmers - µÎ Á¤¼ö »çÀÌÀÇ ÇÕ(https://programmers.co.kr/learn/courses/30/lessons/12912)
+// Programmers - ë‘ ì •ìˆ˜ ì‚¬ì´ì˜ í•©(https://programmers.co.kr/learn/courses/30/lessons/12912)
 
 class Solution {
     public long solution(int a, int b) {

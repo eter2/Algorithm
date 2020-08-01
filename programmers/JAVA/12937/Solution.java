@@ -1,4 +1,4 @@
-// Programmers - Â¦¼ö¿Í È¦¼ö(https://programmers.co.kr/learn/courses/30/lessons/12937)
+// Programmers - ì§ìˆ˜ì™€ í™€ìˆ˜(https://programmers.co.kr/learn/courses/30/lessons/12937)
 
 class Solution {
     public String solution(int num) {

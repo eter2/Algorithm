@@ -1,4 +1,4 @@
-// Programmers - Á÷»ç°¢Çü º°Âï±â(https://programmers.co.kr/learn/courses/30/lessons/12969)
+// Programmers - ì§ì‚¬ê°í˜• ë³„ì°ê¸°(https://programmers.co.kr/learn/courses/30/lessons/12969)
 
 import java.util.Scanner;
 

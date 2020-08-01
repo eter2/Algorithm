@@ -1,4 +1,4 @@
-// Programmers - ÀÚ¸´¼ö ´õÇÏ±â(https://programmers.co.kr/learn/courses/30/lessons/12931)
+// Programmers - ìë¦¿ìˆ˜ ë”í•˜ê¸°(https://programmers.co.kr/learn/courses/30/lessons/12931)
 
 import java.util.*;
 
