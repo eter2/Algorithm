@@ -1,8 +1,10 @@
 # Programmers Question Links #
 
-12901 2016년 [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12901.c)
+12901 2016년 [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12901.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12901/Solution.java)
 
 12903 가운데 글자 가져오기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12903) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12903.c)
+ 
+12906 같은 숫자는 싫어 [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12906/Solution.java)
 
 12909 올바른 괄호 [문제](https://programmers.co.kr/learn/courses/30/lessons/12909) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12909.c)
 
@@ -10,7 +12,7 @@
 
 12917 문자열 내림차순으로 배치하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12917) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12917.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12912/Solution.java)
 
-12918 문자열 다루기 기본 [문제](https://programmers.co.kr/learn/courses/30/lessons/12918) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12918.c)
+12918 문자열 다루기 기본 [문제](https://programmers.co.kr/learn/courses/30/lessons/12918) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12918.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12918/Solution.java)
 
 12919 서울에서 김서방 찾기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12919) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12919/Solution.java)
 
