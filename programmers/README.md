@@ -16,6 +16,8 @@
 
 12919 서울에서 김서방 찾기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12919) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12919/Solution.java)
 
+12921 소수 찾기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12921) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12921/Solution.java)
+
 12922 수박수박수박수박수박수? [문제](https://programmers.co.kr/learn/courses/30/lessons/12922) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12922.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12922/Solution.java)
 
 12925 문자열을 정수로 바꾸기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12925) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12925.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12925/Solution.java)
