@@ -48,6 +48,8 @@
 
 12953 N개의 최소공배수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12953) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12953.c)
 
+12954 x만큼 간격이 있는 n개의 숫자 [문제](https://programmers.co.kr/learn/courses/30/lessons/12954) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12954/Solution.java)
+
 12969 직사각형 별찍기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12969) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12969.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12969/Solution.java)
 
 12977 소수 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12977.c)
