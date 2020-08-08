@@ -34,6 +34,8 @@
 
 12937 짝수와 홀수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12937.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12937/Solution.java)
 
+12040 최대공약수와 최소공배수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12940) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12940/Solution.java)
+
 12943 콜라츠 추측 [문제](https://programmers.co.kr/learn/courses/30/lessons/12943) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12943.c)
 
 12944 평균 구하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12944) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12944.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12944/Solution.java)
