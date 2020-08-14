@@ -48,7 +48,9 @@
 
 12947 하샤드 수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12947.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12947/Solution.java)
 
-12948 핸드폰 번호 가리기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12948) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12948.c)
+12948 핸드폰 번호 가리기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12948) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12948.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12948/Solution.java)
+
+12950 행렬의 덧셈 [문제](https://programmers.co.kr/learn/courses/30/lessons/12950) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12950/Solution.java)
 
 12953 N개의 최소공배수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12953) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12953.c)
 
