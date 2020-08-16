@@ -34,7 +34,9 @@
 
 12932 자연수 뒤집어 배열로 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12932.c)
 
-12934 정수 제곱근 판별 [문제](https://programmers.co.kr/learn/courses/30/lessons/12934) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12934.c)
+12933 정수 내림차순으로 배치하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12933) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12933/Solution.java)
+
+12934 정수 제곱근 판별 [문제](https://programmers.co.kr/learn/courses/30/lessons/12934) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12934.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12934/Solution.java)
 
 12937 짝수와 홀수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12937.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12937/Solution.java)
 
