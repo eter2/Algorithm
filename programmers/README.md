@@ -28,7 +28,8 @@
 
 12928 약수의 합 [문제](https://programmers.co.kr/learn/courses/30/lessons/12928) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12928.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12928/Solution.java)
 
-12930 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12930.c) 
+12930 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12930.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12930/Solution.java)
+
 
 12931 자릿수 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12931) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12931.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12931/Solution.java)
 
