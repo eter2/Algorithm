@@ -62,7 +62,7 @@
 
 12977 소수 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12977.c)
 
-42576 완주하지 못한 선수 [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/42576/Solution.java)
+42576 완주하지 못한 선수 [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/42576/Solution.java)
 
 42584 주식가격 [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/42584.c)
 
