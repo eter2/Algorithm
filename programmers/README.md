@@ -30,7 +30,6 @@
 
 12930 이상한 문자 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12930) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12930.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12930/Solution.java)
 
-
 12931 자릿수 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12931) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12931.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12931/Solution.java)
 
 12932 자연수 뒤집어 배열로 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12932.c)
@@ -62,6 +61,8 @@
 12969 직사각형 별찍기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12969) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12969.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12969/Solution.java)
 
 12977 소수 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12977.c)
+
+42576 완주하지 못한 선수 [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/42576/Solution.java)
 
 42584 주식가격 [문제](https://programmers.co.kr/learn/courses/30/lessons/42584) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/42584.c)
 
