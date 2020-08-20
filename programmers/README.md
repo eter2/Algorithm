@@ -40,6 +40,8 @@
 
 12934 정수 제곱근 판별 [문제](https://programmers.co.kr/learn/courses/30/lessons/12934) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12934.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12934/Solution.java)
 
+12935 제일 작은 수 제거하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12935) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12935/Solution.java)
+
 12937 짝수와 홀수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12937) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12937.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12937/Solution.java)
 
 12040 최대공약수와 최소공배수 [문제](https://programmers.co.kr/learn/courses/30/lessons/12940) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12940/Solution.java)
