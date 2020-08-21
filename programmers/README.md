@@ -34,7 +34,7 @@
 
 12931 자릿수 더하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12931) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12931.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12931/Solution.java)
 
-12932 자연수 뒤집어 배열로 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12932.c)
+12932 자연수 뒤집어 배열로 만들기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) / [C](https://github.com/eter2/Algorithm/blob/master/programmers/C/12932.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12932/Solution.java)
 
 12933 정수 내림차순으로 배치하기 [문제](https://programmers.co.kr/learn/courses/30/lessons/12933) / [JAVA](https://github.com/eter2/Algorithm/blob/master/programmers/JAVA/12933/Solution.java)
 
