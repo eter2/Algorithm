@@ -59,3 +59,5 @@
 11721 열 개씩 끊어 출력하기 [문제](https://www.acmicpc.net/problem/11721) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/11721.c)
 
 15552 빠른 A+B [문제](https://www.acmicpc.net/problem/15552) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/15552.c)
+
+15894 수학은 체육과목 입니다 [문제](https://www.acmicpc.net/problem/15894) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/15894.c)
