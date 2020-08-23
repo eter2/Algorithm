@@ -18,6 +18,8 @@
 
 2557 Hello World [문제](https://www.acmicpc.net/problem/2557) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2557.c)
 
+2588 곱셈 [문제](https://www.acmicpc.net/problem/2588) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2588.c)
+
 2675 문자열 반복 [문제](https://www.acmicpc.net/problem/2675) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2675.c)
 
 2739 구구단 [문제](https://www.acmicpc.net/problem/2739) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2739.c)
