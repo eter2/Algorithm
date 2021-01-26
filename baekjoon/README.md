@@ -1,6 +1,6 @@
 # Baekjoon Question Links #
 
-1000 A+B [문제](https://www.acmicpc.net/problem/1000) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/1000.c)
+1000 A+B [문제](https://www.acmicpc.net/problem/1000) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/1000.c) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/1000.cpp)
 
 1001 A-B [문제](https://www.acmicpc.net/problem/1001) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/1001.c)
 
@@ -16,7 +16,7 @@
 
 2439 별찍기 - 2 [문제](https://www.acmicpc.net/problem/2439) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2439.c)
 
-2557 Hello World [문제](https://www.acmicpc.net/problem/2557) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2557.c)
+2557 Hello World [문제](https://www.acmicpc.net/problem/2557) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2557.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/baekjoon/JAVA/2557.java) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/2557.cpp)
 
 2588 곱셈 [문제](https://www.acmicpc.net/problem/2588) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2588.c)
 
