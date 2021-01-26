@@ -18,11 +18,17 @@
 
 2557 Hello World [문제](https://www.acmicpc.net/problem/2557) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2557.c) / [JAVA](https://github.com/eter2/Algorithm/blob/master/baekjoon/JAVA/2557.java) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/2557.cpp)
 
+2558 A+B-2 [문제](https://www.acmicpc.net/problem/2558) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/2558.cpp)
+
 2588 곱셈 [문제](https://www.acmicpc.net/problem/2588) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2588.c)
 
 2675 문자열 반복 [문제](https://www.acmicpc.net/problem/2675) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2675.c)
 
-2739 구구단 [문제](https://www.acmicpc.net/problem/2739) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2739.c)
+2739 구구단 [문제](https://www.acmicpc.net/problem/2739) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2739.c) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/2739.cpp)
+
+2741 N 찍기 [문제](https://www.acmicpc.net/problem/2741) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/2741.cpp)
+
+2742 기찍 N [문제](https://www.acmicpc.net/problem/2742) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/2742.cpp)
 
 2839 설탕배달 [문제](https://www.acmicpc.net/problem/2839) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/2839.c)
 
@@ -44,11 +50,19 @@
 
 10871 X보다 작은 수 [문제](https://www.acmicpc.net/problem/10871) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/10871.c)
 
-10950 A+B-3 [문제](https://www.acmicpc.net/problem/10950) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/10950.c)
+10950 A+B-3 [문제](https://www.acmicpc.net/problem/10950) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/10950.c) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/10950.cpp)
 
-10952 A+B-5 [문제](https://www.acmicpc.net/problem/10952) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/10952.c)
+10951 A+B-4 [문제](https://www.acmicpc.net/problem/10951) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/10951.cpp)
+
+10952 A+B-5 [문제](https://www.acmicpc.net/problem/10952) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/10952.c) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/10952.cpp)
+
+10953 A+B-6 [문제](https://www.acmicpc.net/problem/10953) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/10953.cpp)
 
 10998 AxB [문제](https://www.acmicpc.net/problem/10998) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/10998.c)
+
+11021 A+B-7 [문제](https://www.acmicpc.net/problem/11021) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/11021.cpp)
+
+11022 A+B-7 [문제](https://www.acmicpc.net/problem/11022) / [C++](https://github.com/eter2/Algorithm/blob/master/baekjoon/C%2B%2B/11022.cpp)
 
 11654 아스키 코드 [문제](https://www.acmicpc.net/problem/11654) / [C](https://github.com/eter2/Algorithm/blob/master/baekjoon/C/11654.c)
 
